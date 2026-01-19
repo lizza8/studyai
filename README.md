@@ -23,7 +23,7 @@ StudySafe AI is an AI-powered study and wellbeing assistant for middle- and high
 - Student mode profiles (Normal, Exam, Recovery)
 - Daily reflection prompt with supportive AI reply
 
-##slides: 
+## slides: 
 An Ai powered study % wellbeing pdf
 
 ## How to Run Locally
