@@ -1,0 +1,4 @@
+{
+  "/page": "app/page.js",
+  "/api/focus-mode/route": "app/api/focus-mode/route.js"
+}

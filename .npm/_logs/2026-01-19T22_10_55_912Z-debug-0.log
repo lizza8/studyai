@@ -1,0 +1,17 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.18.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/lizamamitashvili/studysafeai/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm run dev
+7 verbose argv "run" "dev" "--loglevel" "verbose"
+8 verbose logfile logs-max:10 dir:/Users/lizamamitashvili/studysafeai/.npm/_logs/2026-01-19T22_10_55_912Z-
+9 verbose logfile /Users/lizamamitashvili/studysafeai/.npm/_logs/2026-01-19T22_10_55_912Z-debug-0.log
+10 silly logfile done cleaning log files
+11 verbose cwd /Users/lizamamitashvili/studysafeai
+12 verbose os Darwin 24.4.0
+13 verbose node v22.18.0
+14 verbose npm  v10.9.3
+15 verbose exit 0
+16 info ok
